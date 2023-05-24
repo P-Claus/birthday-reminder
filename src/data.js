@@ -1,4 +1,4 @@
-export default [
+export const peopleList = [
   {
     id: 1,
     name: 'Bertie Yates',
